@@ -1716,6 +1716,16 @@ cloud native adoption are unauthorized disclosure of information, fraud, and
 fund availability. Fraud can have a direct impact on fund availability, making
 the integrity of financial transactions of paramount importance.
 
+Cloud Native architecture, public and private clouds have become the standard solution for modern IT for fast innovation, delivering more value to their customers with dramatically less effort. This is a big challenge, especially for regulated sectors such as finance due to the complexity of their legacy systems, and compliance challenges including concerns raised by regulatory institutions. In the case of the European Union, there are three main authorities:
+
+ - EBA - The European Banking Authority is an independent authority that works to ensure effective and consistent prudential regulation and supervision across the EU banking sector. 
+ - EIOPA - The European Insurance and Occupational Pensions Authority is a European Union financial regulatory institution.
+ - ESMA - The European Securities and Markets Authority works in the field of securities legislation and regulation to improve the functioning of financial markets in Europe, strengthening investor protection and cooperation between national competent authorities. 
+
+Each of the above authorities pays particular attention to flexibility and secure multi-cloud strategy and solid foundations for portability and interoperability, risk assessment, right to access and right to audit, security of data, exit strategy, and concentration risk. Risk assessment should be conducted taking into account the expected benefits, security, costs, business continuity, legal and compliance, operational and concentration risks. The risk assessment should be performed first, thanks to this a solution can be properly designed to mitigate risks and strengthen operational resilience. Additionally, financial institutions need to develop comprehensive exit plans, documented and sufficiently tested. These plans should be updated as needed, including in case of changes in the service.   
+
+Cloud Native architecture helps to meet the above regulations and requirements by containers, service meshes, microservices, immutable infrastructure, declarative APIs.  and by using secure vendor-neutral open source technology hosted by Cloud Native Computing Foundation. The most widely used technology is Kubernetes for which CNCF runs the Certified Kubernetes Conformance Program. The Conformance enables interoperability from one Kubernetes installation to the next, allows flexibility to choose between vendors and facilitates execution of the exit plan. Besides the runtime, container orchestration CNCF offers a wide range of open-source tools for monitoring, security, compliance, deployment, and more which are recommended to complete the overall portable Cloud Native solution. 
+
 #### Healthcare
 
 Core areas of concern for healthcare industries that are essential to successful
