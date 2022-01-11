@@ -1960,3 +1960,9 @@ not only verify the client but also the server (outsider versus insider).
 antifragile behaviors within technology environments. Instead of remaining
 resilient and robust against adverse conditions and attacks, technology can
 proactively adapt and thrive when subjected to them.
+
+[11^]: <https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf>
+
+[12^]: <https://www.eiopa.europa.eu/sites/default/files/publications/eiopa_guidelines/guidelines_on_outsourcing_to_cloud_service_providers_en.pdf >
+
+[13^]: <https://www.esma.europa.eu/press-news/esma-news/esma-publishes-cloud-outsourcing-guidelines>
